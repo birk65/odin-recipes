@@ -11,15 +11,15 @@
 }
 
 .cookies {
-    color: brown;
+    background-color: brown;
 }
 
 .tortilla {
-    color: darkgoldenrod;
+    background-color: darkgoldenrod;
 }
 
 .Lasagna {
-    color: red;
+    background-color: red;
 }
 
 .cookies.toritlla.Lasagna {
