@@ -1,0 +1,27 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#Odin {
+    background-color: blue;
+    color: yellow;
+    font-size: 200px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.cookies {
+    color: brown;
+}
+
+.tortilla {
+    color: darkgoldenrod;
+}
+
+.Lasagna {
+    color: red;
+}
+
+.cookies.toritlla.Lasagna {
+    font-size: 75px;
+}
